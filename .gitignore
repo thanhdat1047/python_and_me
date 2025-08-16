@@ -1,0 +1,4 @@
+fast-api/mini-project/venv/Lib/
+fast-api/mini-project/venv/Scripts/
+__pycache__/
+*.pyc
